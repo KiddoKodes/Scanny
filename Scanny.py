@@ -342,6 +342,7 @@ try:
                 poran = (poran1+'-'+poran2)
                 ranpo = poran.replace('()',"") and poran.replace(',','')
                 barricade()
+                ti()
                 sc7 = Sc.scan(ipaddr,ranpo,'-v')
                 out()
                 eti()
