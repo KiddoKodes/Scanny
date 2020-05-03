@@ -337,7 +337,7 @@ try:
                 poran1 = input()
                 print(Fore.RED+'>>>>> ',end=''+Style.RESET_ALL)
                 poran2 = input()
-                if poran2 == 0:
+                if poran2 == '0':
                     poran2 = poran1
                 poran = (poran1+'-'+poran2)
                 ranpo = poran.replace('()',"") and poran.replace(',','')
