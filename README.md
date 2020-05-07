@@ -1,4 +1,4 @@
-# Scanny
+![alt text]
 A automated tool for port scanning :)
 
  * Scanny is a tool which provides you a easy wizard for scanning ports.
