@@ -1,5 +1,10 @@
-![alt text](https://github.com/ASKtheARM/Scanny/blob/master/misc/Screenshot%20(457).png)
-A automated tool for port scanning :)
+![alt text](https://github.com/ASKtheARM/Scanny/blob/master/misc/Screenshot%20(461).png)
+
+
+
+
+
+
 
  * Scanny is a tool which provides you a easy wizard for scanning ports.
  * Scanny gives 6 options to scan different ports on different protocols.
