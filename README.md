@@ -1,4 +1,4 @@
-![alt text](https://github.com/ASKtheARM/Scanny/blob/master/misc/Screenshot%20(461).png)
+![alt text](https://github.com/KiddoKodes/Scanny/blob/master/misc/Screenshot%20(461).png)
 
 
 
